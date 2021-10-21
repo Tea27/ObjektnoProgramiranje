@@ -1,0 +1,4 @@
+﻿  vector.cpp
+C:\Users\Kata\Desktop\OOP\Vjezba2\Vjezba2Zadatak1\Vjezba2Zadatak4\vector.cpp(22,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kata\Desktop\OOP\Vjezba2\Vjezba2Zadatak1\Vjezba2Zadatak4\vector.cpp(27,27): warning C4018: '<': signed/unsigned mismatch
+  Vjezba2Zadatak4.vcxproj -> C:\Users\Kata\Desktop\OOP\Vjezba2\Vjezba2Zadatak1\Debug\Vjezba2Zadatak4.exe

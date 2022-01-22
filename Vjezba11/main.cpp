@@ -11,7 +11,7 @@ void readIntsToVector(const string& fileName, vector<int>& numbers)
 	ifstream file;
 	int tmp;
 
-	file.open(fileName.c_str());
+	file.open(fileName);
 	if (file.fail()) {
 		throw exception();
 	}
@@ -60,3 +60,4 @@ int main()
 	return (0);
 }
 
+ 

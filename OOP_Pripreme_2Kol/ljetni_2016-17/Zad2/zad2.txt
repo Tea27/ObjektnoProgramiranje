@@ -1,0 +1,4 @@
+2. (15) Napisati template klasu koja predstavlja red (engl. queue). Implementirati potrebne funkcije. Red ima
+ogranicenu maksimalnu velicinu, velicinu, funkcije za dodavanje na kraj reda (enqueue), skidanje elementa
+sa pocetka reda (dequeue). Ako red dosegne maksimalnu velicinu, funkcija za dodavanje elemenata treba
+baciti iznimku.

@@ -1,0 +1,2 @@
+4. (10) Napišite program koji iz datoteke ucitava nenegativne cijele brojeve. Tada se, koristeci standardne
+algoritme, ispišu broj dvoznamenkastih brojeva i prvi od njih ako postoji.

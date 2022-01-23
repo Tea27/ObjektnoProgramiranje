@@ -1,0 +1,18 @@
+1. (15) Napišite klasu array tako da sljedeci program ispisuje sve elemente polja. Klasa ima polje kao privatni
+clan. U konstruktoru se svi elementi postavljaju na zadanu vrijednost.
+int main ()
+{
+std :: ostream_iterator < double > os ( std :: cout , "␣") ;
+array < double , 16 > a (1) ;
+a [0] = a [1] = 3.14;
+std :: copy (a. begin () , a. end () , os );
+}
+2. (15) Napisati template klasu koja predstavlja red (engl. queue). Implementirati potrebne funkcije. Red ima
+ogranicenu maksimalnu velicinu, velicinu, funkcije za dodavanje na kraj reda (enqueue), skidanje elementa
+sa pocetka reda (dequeue). Ako red dosegne maksimalnu veliˇcinu, funkcija za dodavanje elemenata treba
+baciti iznimku.
+3. (10) Napišite interface za geometrijski lik te implementaciju za krug i kvadrat. U programu u listu pointera
+na lik stavite jedan krug i jedan kvadrat i pozovite funkciju koja ispisuje ukupnu površinu svih likova.
+Obavezno obrisati sve alocirane objekte.
+4. (10) Napišite program koji iz datoteke uˇcitava nenegativne cijele brojeve. Tada se, koristeci standardne
+algoritme, ispišu broj dvoznamenkastih brojeva i prvi od njih ako postoj

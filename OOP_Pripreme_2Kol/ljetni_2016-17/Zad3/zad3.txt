@@ -1,0 +1,3 @@
+3. (10) Napišite interface za geometrijski lik te implementaciju za krug i kvadrat. U programu u listu pointera
+na lik stavite jedan krug i jedan kvadrat i pozovite funkciju koja ispisuje ukupnu površinu svih likova.
+Obavezno obrisati sve alocirane objekte.
